@@ -124,7 +124,6 @@ header {
 }
 
 .sign-up-box {
-    border: 2px solid red;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -132,7 +131,6 @@ header {
 }
 
 .sign-up-box-content {
-    border: 2px solid red;
     width: 60%;
     height: 200px;
     border-radius: 10px;
